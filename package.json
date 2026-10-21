@@ -1,0 +1,9 @@
+{
+  "name": "zona-zero-battle-royale",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {"start":"node server.js", "test":"node test.js"},
+  "engines": {"node": ">=18"},
+  "description": "Battle royale 3D original com salas X1 multiplayer, sem dependencias de servidor"
+}
